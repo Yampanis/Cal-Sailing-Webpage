@@ -9,7 +9,8 @@ MySQL 5.1.5 (2013)
 
 Web Hosting: DreamHost
 
-FTP: cal-sailing.org cal-sailing.org/clean-backups 100 Mb cron backup on alternating days
+FTP: cal-sailing.org 
+     cal-sailing.org/clean-backups 100 Mb cron backup on alternating days
 
 Staging: sandbox.cal-sailing.org
 

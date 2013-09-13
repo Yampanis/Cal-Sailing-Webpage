@@ -17,3 +17,12 @@ Staging: sandbox.cal-sailing.org
 
 Database: http://sandbox.cal-sailing.org/dh_phpmyadmin/mysql.sandbox.cal-sailing.org/ 
 
+
+Admin Site: RESTORE FROM BACKUP
+Components
+	Akiba Backup
+		Manage Backups
+		[Check Box next to most recent clean Backup]
+		[Click Restore (Upper Right)]
+
+

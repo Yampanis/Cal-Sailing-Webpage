@@ -19,10 +19,10 @@ Database: http://sandbox.cal-sailing.org/dh_phpmyadmin/mysql.sandbox.cal-sailing
 
 
 Admin Site: RESTORE FROM BACKUP
-Components
-	Akiba Backup
-		Manage Backups
-		[Check Box next to most recent clean Backup]
-		[Click Restore (Upper Right)]
+* Components
+* &nbsp;&nbsp;	Akiba Backup
+* &nbsp;&nbsp;&nbsp;&nbsp;		Manage Backups
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	[Check Box next to most recent clean Backup]
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	[Click Restore (Upper Right)]
 
 

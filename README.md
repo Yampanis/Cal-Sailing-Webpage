@@ -17,6 +17,7 @@ Staging: sandbox.cal-sailing.org
 
 Database: http://sandbox.cal-sailing.org/dh_phpmyadmin/mysql.sandbox.cal-sailing.org/ 
 
+Admin Site: http://www.cal-sailing.org/administrator/index.php?calsail
 
 Admin Site: RESTORE FROM BACKUP
 * Components
